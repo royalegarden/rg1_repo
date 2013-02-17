@@ -1,0 +1,6 @@
+[submodule "uboot"]
+	path = uboot
+	url = ./uboot.git
+[submodule "linux"]
+	path = linux
+	url = ./linux.git
